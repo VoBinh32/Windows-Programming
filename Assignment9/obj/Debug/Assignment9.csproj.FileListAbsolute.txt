@@ -1,0 +1,14 @@
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.csprojAssemblyReference.cache
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.AddCustomerForm.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.AddFlightForm.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.MainForm.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.Properties.Resources.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.SeachCustomerForm.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.SearchFlightForm.resources
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.csproj.GenerateResource.cache
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\bin\Debug\Assignment9.exe.config
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\bin\Debug\Assignment9.exe
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\bin\Debug\Assignment9.pdb
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.exe
+C:\Users\thanh_sm1m4yl\source\repos\Assignments9\Assignment9\obj\Debug\Assignment9.pdb
